@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá !! Bem-vindo(a) ao meu perfil !
+Me chamo kauã felipe
 
-<!--
-**kaua-fe/kaua-fe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><img src=https://komarev.com/ghpvc/?username=kaua-fe alt=kaua-fe/></p>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="widht: 99%">
+    <a href="https://github.com/kaua-fe">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaua-fe&show_icons=true&theme=dark&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaua-fe&layout=compact&langs_count=7&theme=dark"/>
+    </a>
+</div>
+<br>
+<div>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
