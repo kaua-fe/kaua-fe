@@ -1,5 +1,4 @@
-## Olá !! Bem-vindo(a) ao meu perfil !
-Me chamo kauã felipe
+## Olá, Me chamo kauã felipe !! Bem-vindo(a) ao meu perfil !
 
 <p align="left"><img src=https://komarev.com/ghpvc/?username=kaua-fe alt=kaua-fe/></p>  
 
